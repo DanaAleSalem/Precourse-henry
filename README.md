@@ -1,2 +1,1 @@
-# Precourse-henry
-prueba de modulo 2 de curso henry
+Esta carpeta es un modelo de como crear un repositorio y clonarlo
